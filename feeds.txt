@@ -1,5 +1,0 @@
-# Agrega aqui tus feeds RSS, uno por linea.
-# Las lineas que empiezan con # se ignoran.
-# Ejemplos (reemplazalos por los tuyos):
-# https://desinformemonos.org/feed/
-# https://www.animalpolitico.com/feed
