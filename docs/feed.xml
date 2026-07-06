@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebargentina</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>Buscando ideas para minimizar la pobreza</title>
+      <description>Argentina – Rebelion — https://rebelion.org/buscando-ideas-para-minimizar-la-pobreza/</description>
+      <link>https://rebelion.org/buscando-ideas-para-minimizar-la-pobreza/</link>
+      <guid isPermaLink="false">e430ce93225e4c8e</guid>
+      <pubDate>Mon, 06 Jul 2026 02:14:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e430ce93225e4c8e.mp3" length="1635696" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Los libertarios piensan avanzar incluso sin Milei</title>
+      <description>Argentina – Rebelion — https://rebelion.org/los-libertarios-piensan-avanzar-incluso-sin-milei/</description>
+      <link>https://rebelion.org/los-libertarios-piensan-avanzar-incluso-sin-milei/</link>
+      <guid isPermaLink="false">edc9f0f0e1af1851</guid>
+      <pubDate>Mon, 06 Jul 2026 02:13:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/edc9f0f0e1af1851.mp3" length="3268224" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Por fin renunció Adorni: las políticas destructivas siguen</title>
+      <description>Argentina – Rebelion — https://rebelion.org/por-fin-renuncio-adorni-las-politicas-destructivas-siguen/</description>
+      <link>https://rebelion.org/por-fin-renuncio-adorni-las-politicas-destructivas-siguen/</link>
+      <guid isPermaLink="false">c2e3abb97db2b297</guid>
+      <pubDate>Mon, 06 Jul 2026 02:13:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/c2e3abb97db2b297.mp3" length="4372272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Argentina, trabajadores de cooperativas:  hartos de esperar respuestas a sus justas reclamaciones</title>
+      <description>Argentina – Rebelion — https://rebelion.org/argentina-trabajadores-de-cooperativas-hartos-de-esperar-respuestas-a-sus-justas-reclamaciones/</description>
+      <link>https://rebelion.org/argentina-trabajadores-de-cooperativas-hartos-de-esperar-respuestas-a-sus-justas-reclamaciones/</link>
+      <guid isPermaLink="false">8bebbdf261067e67</guid>
+      <pubDate>Mon, 06 Jul 2026 02:13:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/8bebbdf261067e67.mp3" length="1576512" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Juicio por fumigaciones en Pergamino: jueces transgénicos y la impunidad del agronegocio</title>
+      <description>Argentina – Rebelion — https://rebelion.org/juicio-por-fumigaciones-en-pergamino-jueces-transgenicos-y-la-impunidad-del-agronegocio/</description>
+      <link>https://rebelion.org/juicio-por-fumigaciones-en-pergamino-jueces-transgenicos-y-la-impunidad-del-agronegocio/</link>
+      <guid isPermaLink="false">d8b477e99d9c2dc4</guid>
+      <pubDate>Mon, 06 Jul 2026 02:13:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/d8b477e99d9c2dc4.mp3" length="2802528" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
