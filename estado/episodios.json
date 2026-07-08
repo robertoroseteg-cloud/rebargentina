@@ -1,5 +1,32 @@
 [
   {
+    "id": "04b2e6933c8d1fc1",
+    "titulo": "El precio del cálculo",
+    "fuente": "Argentina – Rebelion",
+    "enlace": "https://rebelion.org/el-precio-del-calculo/",
+    "archivo": "04b2e6933c8d1fc1.mp3",
+    "bytes": 3259584,
+    "timestamp": 1783530829
+  },
+  {
+    "id": "7c2af2abe7cf86f7",
+    "titulo": "Desatar los nudos de la dependencia",
+    "fuente": "Argentina – Rebelion",
+    "enlace": "https://rebelion.org/desatar-los-nudos-de-la-dependencia/",
+    "archivo": "7c2af2abe7cf86f7.mp3",
+    "bytes": 1713312,
+    "timestamp": 1783530812
+  },
+  {
+    "id": "88b63330ba78e185",
+    "titulo": "Masacre de Palomitas, la cobardía del verdugo",
+    "fuente": "Argentina – Rebelion",
+    "enlace": "https://rebelion.org/masacre-de-palomitas-la-cobardia-del-verdugo/",
+    "archivo": "88b63330ba78e185.mp3",
+    "bytes": 2591424,
+    "timestamp": 1783530796
+  },
+  {
     "id": "2d37eb2992a88b37",
     "titulo": "La ficción de la evidencia: el dispositivo ESCA en la era corporativa",
     "fuente": "Argentina – Rebelion",
