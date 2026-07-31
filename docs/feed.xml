@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Encuentro con los verdaderos libertarios y el gran nosotres</title>
+      <description>Argentina – Rebelion — https://rebelion.org/encuentro-con-los-verdaderos-libertarios-y-el-gran-nosotres/</description>
+      <link>https://rebelion.org/encuentro-con-los-verdaderos-libertarios-y-el-gran-nosotres/</link>
+      <guid isPermaLink="false">e427311b81d1b588</guid>
+      <pubDate>Fri, 31 Jul 2026 13:51:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e427311b81d1b588.mp3" length="4660272" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La soberanía no se importa: 75 años de desarrollo nuclear argentino</title>
       <description>Argentina – Rebelion — https://rebelion.org/la-soberania-no-se-importa-75-anos-de-desarrollo-nuclear-argentino/</description>
       <link>https://rebelion.org/la-soberania-no-se-importa-75-anos-de-desarrollo-nuclear-argentino/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">c2e3abb97db2b297</guid>
       <pubDate>Mon, 06 Jul 2026 02:13:52 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/c2e3abb97db2b297.mp3" length="4372272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Argentina, trabajadores de cooperativas:  hartos de esperar respuestas a sus justas reclamaciones</title>
-      <description>Argentina – Rebelion — https://rebelion.org/argentina-trabajadores-de-cooperativas-hartos-de-esperar-respuestas-a-sus-justas-reclamaciones/</description>
-      <link>https://rebelion.org/argentina-trabajadores-de-cooperativas-hartos-de-esperar-respuestas-a-sus-justas-reclamaciones/</link>
-      <guid isPermaLink="false">8bebbdf261067e67</guid>
-      <pubDate>Mon, 06 Jul 2026 02:13:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/8bebbdf261067e67.mp3" length="1576512" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
