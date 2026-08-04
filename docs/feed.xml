@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Reformas financieras en modo campaña</title>
+      <description>Argentina – Rebelion — https://rebelion.org/reformas-financieras-en-modo-campana/</description>
+      <link>https://rebelion.org/reformas-financieras-en-modo-campana/</link>
+      <guid isPermaLink="false">deaad7c238f4af47</guid>
+      <pubDate>Tue, 04 Aug 2026 13:57:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/deaad7c238f4af47.mp3" length="1327104" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Desalojos, contaminación, persecución a comunidades preparan el terreno a la Ley de Extranjerización de Tierras</title>
       <description>Argentina – Rebelion — https://rebelion.org/desalojos-contaminacion-persecucion-a-comunidades-preparan-el-terreno-a-la-ley-de-extranjerizacion-de-tierras/</description>
       <link>https://rebelion.org/desalojos-contaminacion-persecucion-a-comunidades-preparan-el-terreno-a-la-ley-de-extranjerizacion-de-tierras/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">605d66cfa6b81e9a</guid>
       <pubDate>Mon, 06 Jul 2026 19:07:46 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/605d66cfa6b81e9a.mp3" length="7352928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Se cumplieron 50 años del asesinato de «Paco» Urondo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/se-cumplieron-50-anos-del-asesinato-de-paco-urondo/</description>
-      <link>https://rebelion.org/se-cumplieron-50-anos-del-asesinato-de-paco-urondo/</link>
-      <guid isPermaLink="false">b3a0b50e757adc60</guid>
-      <pubDate>Mon, 06 Jul 2026 19:06:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/b3a0b50e757adc60.mp3" length="9106128" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
