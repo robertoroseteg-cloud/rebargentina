@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>El energúmeno y el estadista</title>
+      <description>Argentina – Rebelion — https://rebelion.org/el-energumeno-y-el-estadista/</description>
+      <link>https://rebelion.org/el-energumeno-y-el-estadista/</link>
+      <guid isPermaLink="false">63f1dc9a2d7fd553</guid>
+      <pubDate>Sat, 08 Aug 2026 12:36:13 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/63f1dc9a2d7fd553.mp3" length="3858480" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Crónica de una plaza llena y embarrada para gritar al Congreso que la Patria no se vende</title>
+      <description>Argentina – Rebelion — https://rebelion.org/cronica-de-una-plaza-llena-y-embarrada-para-gritarle-al-congreso-que-la-patria-no-se-vende/</description>
+      <link>https://rebelion.org/cronica-de-una-plaza-llena-y-embarrada-para-gritarle-al-congreso-que-la-patria-no-se-vende/</link>
+      <guid isPermaLink="false">6c83434320523b80</guid>
+      <pubDate>Sat, 08 Aug 2026 12:35:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/6c83434320523b80.mp3" length="2661840" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿De qué depende que Milei pierda las elecciones en Argentina en 2027?</title>
+      <description>Argentina – Rebelion — https://rebelion.org/de-que-depende-que-milei-pierda-las-elecciones-en-argentina-en-2027/</description>
+      <link>https://rebelion.org/de-que-depende-que-milei-pierda-las-elecciones-en-argentina-en-2027/</link>
+      <guid isPermaLink="false">a99bc698d8ed03eb</guid>
+      <pubDate>Sat, 08 Aug 2026 12:35:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/a99bc698d8ed03eb.mp3" length="1482768" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Vulneraciones a la soberanía nacional y mecanismos de control poblacional en la Argentina contemporánea</title>
       <description>Argentina – Rebelion — https://rebelion.org/vulneraciones-a-la-soberania-nacional-y-mecanismos-de-control-poblacional-en-la-argentina-contemporanea/</description>
       <link>https://rebelion.org/vulneraciones-a-la-soberania-nacional-y-mecanismos-de-control-poblacional-en-la-argentina-contemporanea/</link>
@@ -302,30 +326,6 @@
       <guid isPermaLink="false">2d37eb2992a88b37</guid>
       <pubDate>Tue, 07 Jul 2026 19:19:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/2d37eb2992a88b37.mp3" length="5166000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuando la economía une trabajo, conocimiento y compromiso con el territorio</title>
-      <description>Argentina – Rebelion — https://rebelion.org/cuando-la-economia-une-trabajo-conocimiento-y-compromiso-con-el-territorio/</description>
-      <link>https://rebelion.org/cuando-la-economia-une-trabajo-conocimiento-y-compromiso-con-el-territorio/</link>
-      <guid isPermaLink="false">767810384f384302</guid>
-      <pubDate>Tue, 07 Jul 2026 19:19:06 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/767810384f384302.mp3" length="4626576" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Paraná, el activo más importante en manos extranjeras</title>
-      <description>Argentina – Rebelion — https://rebelion.org/parana-el-activo-mas-importante-en-manos-extranjeras/</description>
-      <link>https://rebelion.org/parana-el-activo-mas-importante-en-manos-extranjeras/</link>
-      <guid isPermaLink="false">1c9e80297a07e025</guid>
-      <pubDate>Tue, 07 Jul 2026 19:18:24 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/1c9e80297a07e025.mp3" length="5450112" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿A quién le conviene más que gane Argentina?</title>
-      <description>Argentina – Rebelion — https://rebelion.org/a-quien-le-conviene-mas-que-gane-argentina/</description>
-      <link>https://rebelion.org/a-quien-le-conviene-mas-que-gane-argentina/</link>
-      <guid isPermaLink="false">b35c7cae1defe51f</guid>
-      <pubDate>Tue, 07 Jul 2026 19:17:43 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/b35c7cae1defe51f.mp3" length="4166352" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
