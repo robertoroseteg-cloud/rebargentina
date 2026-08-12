@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los gremios docentes y no docentes universitarios convocan a un paro</title>
+      <description>Argentina – Rebelion — https://rebelion.org/los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/</description>
+      <link>https://rebelion.org/los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/</link>
+      <guid isPermaLink="false">e6f9a745f65645e2</guid>
+      <pubDate>Wed, 12 Aug 2026 12:57:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e6f9a745f65645e2.mp3" length="9648000" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Será que este pueblo argentino no comprende a Milei?</title>
+      <description>Argentina – Rebelion — https://rebelion.org/sera-que-este-pueblo-argentino-no-comprende-a-milei/</description>
+      <link>https://rebelion.org/sera-que-este-pueblo-argentino-no-comprende-a-milei/</link>
+      <guid isPermaLink="false">4da4fb58d3dd7b90</guid>
+      <pubDate>Wed, 12 Aug 2026 12:55:51 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/4da4fb58d3dd7b90.mp3" length="4223664" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Los datos matan el relato del Gobierno y Milei</title>
       <description>Argentina – Rebelion — https://rebelion.org/los-datos-matan-el-relato-del-gobierno-y-milei/</description>
       <link>https://rebelion.org/los-datos-matan-el-relato-del-gobierno-y-milei/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">eb64a3bf5f0def8e</guid>
       <pubDate>Sat, 11 Jul 2026 15:34:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/eb64a3bf5f0def8e.mp3" length="10524384" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Precisiones en torno al cálculo y su precio</title>
-      <description>Argentina – Rebelion — https://rebelion.org/precisiones-en-torno-al-calculo-y-su-precio/</description>
-      <link>https://rebelion.org/precisiones-en-torno-al-calculo-y-su-precio/</link>
-      <guid isPermaLink="false">fc23bae9fc5de9d0</guid>
-      <pubDate>Thu, 09 Jul 2026 18:27:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/fc23bae9fc5de9d0.mp3" length="2063232" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El precio del cálculo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/el-precio-del-calculo/</description>
-      <link>https://rebelion.org/el-precio-del-calculo/</link>
-      <guid isPermaLink="false">04b2e6933c8d1fc1</guid>
-      <pubDate>Wed, 08 Jul 2026 17:13:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/04b2e6933c8d1fc1.mp3" length="3259584" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
