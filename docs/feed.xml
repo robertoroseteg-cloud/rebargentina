@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>A 52 años de la clausura del diario «Noticias»</title>
+      <description>Argentina – Rebelion — https://rebelion.org/a-52-anos-de-la-clausura-del-diario-noticias/</description>
+      <link>https://rebelion.org/a-52-anos-de-la-clausura-del-diario-noticias/</link>
+      <guid isPermaLink="false">422f69a87ff429b0</guid>
+      <pubDate>Sat, 15 Aug 2026 12:25:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/422f69a87ff429b0.mp3" length="3636864" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La crisis de la industria lechera afecta a miles de empleos</title>
       <description>Argentina – Rebelion — https://rebelion.org/la-crisis-de-la-industria-lechera-afecta-a-miles-de-empleos/</description>
       <link>https://rebelion.org/la-crisis-de-la-industria-lechera-afecta-a-miles-de-empleos/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">5ab81d0a05649505</guid>
       <pubDate>Wed, 15 Jul 2026 16:57:39 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/5ab81d0a05649505.mp3" length="25203312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La criptoestafa $Libra de Javier Milei</title>
-      <description>Argentina – Rebelion — https://rebelion.org/la-criptoestafa-libra-de-javier-milei/</description>
-      <link>https://rebelion.org/la-criptoestafa-libra-de-javier-milei/</link>
-      <guid isPermaLink="false">a35984c79b032bed</guid>
-      <pubDate>Wed, 15 Jul 2026 16:53:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/a35984c79b032bed.mp3" length="2727216" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
