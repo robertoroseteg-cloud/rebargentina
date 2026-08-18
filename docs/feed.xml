@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Larralde y el necesario grito de los trabajadores</title>
+      <description>Argentina – Rebelion — https://rebelion.org/larralde-y-el-necesario-grito-de-los-trabajadores/</description>
+      <link>https://rebelion.org/larralde-y-el-necesario-grito-de-los-trabajadores/</link>
+      <guid isPermaLink="false">8bc05ebedaabc72a</guid>
+      <pubDate>Tue, 18 Aug 2026 12:35:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/8bc05ebedaabc72a.mp3" length="1306368" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La política exterior de Milei, la verdadera campaña antiargentina</title>
+      <description>Argentina – Rebelion — https://rebelion.org/la-politica-exterior-de-milei-la-verdadera-campana-antiargentina/</description>
+      <link>https://rebelion.org/la-politica-exterior-de-milei-la-verdadera-campana-antiargentina/</link>
+      <guid isPermaLink="false">dbd264ff804bd9be</guid>
+      <pubDate>Tue, 18 Aug 2026 12:35:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/dbd264ff804bd9be.mp3" length="7281216" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>A 52 años de la clausura del diario «Noticias»</title>
       <description>Argentina – Rebelion — https://rebelion.org/a-52-anos-de-la-clausura-del-diario-noticias/</description>
       <link>https://rebelion.org/a-52-anos-de-la-clausura-del-diario-noticias/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">017002b6cc5f8e1c</guid>
       <pubDate>Thu, 16 Jul 2026 16:52:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/017002b6cc5f8e1c.mp3" length="4568688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Malvinas, fútbol y anticolonialismo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/malvinas-futbol-y-anticolonialismo/</description>
-      <link>https://rebelion.org/malvinas-futbol-y-anticolonialismo/</link>
-      <guid isPermaLink="false">ead00cf63be1bfe8</guid>
-      <pubDate>Thu, 16 Jul 2026 16:51:10 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ead00cf63be1bfe8.mp3" length="2089728" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La destrucción del Estado argentino a través del despido de su capital humano</title>
-      <description>Argentina – Rebelion — https://rebelion.org/la-destruccion-del-estado-argentino-a-traves-del-despido-de-su-capital-humano/</description>
-      <link>https://rebelion.org/la-destruccion-del-estado-argentino-a-traves-del-despido-de-su-capital-humano/</link>
-      <guid isPermaLink="false">5ab81d0a05649505</guid>
-      <pubDate>Wed, 15 Jul 2026 16:57:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/5ab81d0a05649505.mp3" length="25203312" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
