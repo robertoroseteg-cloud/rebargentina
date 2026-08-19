@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Milei, peronismo, elecciones ¿y después?</title>
+      <description>Argentina – Rebelion — https://rebelion.org/milei-peronismo-elecciones-y-despues/</description>
+      <link>https://rebelion.org/milei-peronismo-elecciones-y-despues/</link>
+      <guid isPermaLink="false">f9bd947ff7865be5</guid>
+      <pubDate>Wed, 19 Aug 2026 12:35:12 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f9bd947ff7865be5.mp3" length="5309568" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Larralde y el necesario grito de los trabajadores</title>
       <description>Argentina – Rebelion — https://rebelion.org/larralde-y-el-necesario-grito-de-los-trabajadores/</description>
       <link>https://rebelion.org/larralde-y-el-necesario-grito-de-los-trabajadores/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">ac063842155f3e65</guid>
       <pubDate>Fri, 17 Jul 2026 16:42:09 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ac063842155f3e65.mp3" length="25470864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¡Libertad para Milagro Sala!</title>
-      <description>Argentina – Rebelion — https://rebelion.org/libertad-para-milagro-sala-2/</description>
-      <link>https://rebelion.org/libertad-para-milagro-sala-2/</link>
-      <guid isPermaLink="false">017002b6cc5f8e1c</guid>
-      <pubDate>Thu, 16 Jul 2026 16:52:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/017002b6cc5f8e1c.mp3" length="4568688" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
