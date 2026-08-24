@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La foto es horrible y la película de terror</title>
+      <description>Argentina – Rebelion — https://rebelion.org/la-foto-es-horrible-y-la-pelicula-de-terror/</description>
+      <link>https://rebelion.org/la-foto-es-horrible-y-la-pelicula-de-terror/</link>
+      <guid isPermaLink="false">d197312e9b1e8b55</guid>
+      <pubDate>Mon, 24 Aug 2026 12:41:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/d197312e9b1e8b55.mp3" length="21627216" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las lluvias y el cambio climático</title>
+      <description>Argentina – Rebelion — https://rebelion.org/las-lluvias-y-el-cambio-climatico/</description>
+      <link>https://rebelion.org/las-lluvias-y-el-cambio-climatico/</link>
+      <guid isPermaLink="false">438cce9d975f910c</guid>
+      <pubDate>Mon, 24 Aug 2026 12:37:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/438cce9d975f910c.mp3" length="1818576" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Por qué la unidad federal es la única salida nacional</title>
       <description>Argentina – Rebelion — https://rebelion.org/por-que-la-unidad-federal-es-la-unica-salida-nacional/</description>
       <link>https://rebelion.org/por-que-la-unidad-federal-es-la-unica-salida-nacional/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">9db49ed9e9614550</guid>
       <pubDate>Mon, 27 Jul 2026 17:59:53 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/9db49ed9e9614550.mp3" length="2823840" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>«Santucho era fiel a sus ideas, coherente con lo que decía y lo que actuaba»</title>
-      <description>Argentina – Rebelion — https://rebelion.org/santucho-era-fiel-a-sus-ideas-coherente-con-lo-que-decia-y-lo-que-actuaba-2/</description>
-      <link>https://rebelion.org/santucho-era-fiel-a-sus-ideas-coherente-con-lo-que-decia-y-lo-que-actuaba-2/</link>
-      <guid isPermaLink="false">b91ea232cfdf63c6</guid>
-      <pubDate>Sat, 25 Jul 2026 15:47:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/b91ea232cfdf63c6.mp3" length="3089808" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El movimiento Mujeres Agropecuarias en Lucha cumplió 31 años</title>
-      <description>Argentina – Rebelion — https://rebelion.org/el-movimiento-mujeres-agropecuarias-en-lucha-cumplio-31-anos/</description>
-      <link>https://rebelion.org/el-movimiento-mujeres-agropecuarias-en-lucha-cumplio-31-anos/</link>
-      <guid isPermaLink="false">ccc23bcff92a5423</guid>
-      <pubDate>Fri, 24 Jul 2026 17:15:53 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ccc23bcff92a5423.mp3" length="1054368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
