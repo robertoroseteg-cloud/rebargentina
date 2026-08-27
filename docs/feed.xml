@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Por qué baja la tasa de natalidad?</title>
+      <description>Argentina – Rebelion — https://rebelion.org/por-que-baja-la-tasa-de-natalidad/</description>
+      <link>https://rebelion.org/por-que-baja-la-tasa-de-natalidad/</link>
+      <guid isPermaLink="false">9a42c24e6ce26d1b</guid>
+      <pubDate>Thu, 27 Aug 2026 21:36:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/9a42c24e6ce26d1b.mp3" length="1392624" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>No hay un loco en la casa rosada</title>
+      <description>Argentina – Rebelion — https://rebelion.org/no-hay-un-loco-en-la-casa-rosada/</description>
+      <link>https://rebelion.org/no-hay-un-loco-en-la-casa-rosada/</link>
+      <guid isPermaLink="false">ef07120d6f4783b0</guid>
+      <pubDate>Thu, 27 Aug 2026 21:36:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ef07120d6f4783b0.mp3" length="3573936" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Sigue la amenaza de desalojo contra la Lof Melo</title>
       <description>Argentina – Rebelion — https://rebelion.org/sigue-la-amenaza-de-desalojo-contra-la-lof-melo/</description>
       <link>https://rebelion.org/sigue-la-amenaza-de-desalojo-contra-la-lof-melo/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">b6bfe4869c516641</guid>
       <pubDate>Thu, 30 Jul 2026 13:47:25 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/b6bfe4869c516641.mp3" length="3862080" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ingenio Ledesma: A 50 años de La noche del apagón</title>
-      <description>Argentina – Rebelion — https://rebelion.org/ingenio-ledesma-a-50-anos-de-la-noche-del-apagon/</description>
-      <link>https://rebelion.org/ingenio-ledesma-a-50-anos-de-la-noche-del-apagon/</link>
-      <guid isPermaLink="false">081c5806183ce88f</guid>
-      <pubDate>Thu, 30 Jul 2026 13:47:01 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/081c5806183ce88f.mp3" length="9784512" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La directora del FMI en Argentina, intenciones «kristalinas»</title>
-      <description>Argentina – Rebelion — https://rebelion.org/la-directora-del-fmi-en-argentina-intenciones-kristalinas/</description>
-      <link>https://rebelion.org/la-directora-del-fmi-en-argentina-intenciones-kristalinas/</link>
-      <guid isPermaLink="false">40d91edb22477654</guid>
-      <pubDate>Wed, 29 Jul 2026 16:53:46 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/40d91edb22477654.mp3" length="5902848" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
