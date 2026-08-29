@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Lamelas ataca de nuevo</title>
+      <description>Argentina – Rebelion — https://rebelion.org/lamelas-ataca-de-nuevo/</description>
+      <link>https://rebelion.org/lamelas-ataca-de-nuevo/</link>
+      <guid isPermaLink="false">69ef5a4999eb0ce9</guid>
+      <pubDate>Sat, 29 Aug 2026 16:06:36 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/69ef5a4999eb0ce9.mp3" length="15974352" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El plan sistemático para borrar el futuro de la Argentina</title>
+      <description>Argentina – Rebelion — https://rebelion.org/el-plan-sistematico-para-borrar-el-futuro-de-la-argentina/</description>
+      <link>https://rebelion.org/el-plan-sistematico-para-borrar-el-futuro-de-la-argentina/</link>
+      <guid isPermaLink="false">f9c12bd006efeb7f</guid>
+      <pubDate>Sat, 29 Aug 2026 16:04:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f9c12bd006efeb7f.mp3" length="2461104" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Milei ante el abismo: entre el relato y la crisis económica</title>
       <description>Argentina – Rebelion — https://rebelion.org/milei-ante-el-abismo-entre-el-relato-y-la-crisis-economica/</description>
       <link>https://rebelion.org/milei-ante-el-abismo-entre-el-relato-y-la-crisis-economica/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">dfc6c67042a1c3cc</guid>
       <pubDate>Sat, 01 Aug 2026 13:06:20 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/dfc6c67042a1c3cc.mp3" length="5437872" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Encuentro con los verdaderos libertarios y el gran nosotres</title>
-      <description>Argentina – Rebelion — https://rebelion.org/encuentro-con-los-verdaderos-libertarios-y-el-gran-nosotres/</description>
-      <link>https://rebelion.org/encuentro-con-los-verdaderos-libertarios-y-el-gran-nosotres/</link>
-      <guid isPermaLink="false">e427311b81d1b588</guid>
-      <pubDate>Fri, 31 Jul 2026 13:51:27 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e427311b81d1b588.mp3" length="4660272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La soberanía no se importa: 75 años de desarrollo nuclear argentino</title>
-      <description>Argentina – Rebelion — https://rebelion.org/la-soberania-no-se-importa-75-anos-de-desarrollo-nuclear-argentino/</description>
-      <link>https://rebelion.org/la-soberania-no-se-importa-75-anos-de-desarrollo-nuclear-argentino/</link>
-      <guid isPermaLink="false">be71e4aa28caf199</guid>
-      <pubDate>Thu, 30 Jul 2026 13:49:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/be71e4aa28caf199.mp3" length="4101840" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
