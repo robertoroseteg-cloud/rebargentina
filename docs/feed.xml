@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Toda deuda es política</title>
+      <description>Rebelión · Argentina — https://rebelion.org/toda-deuda-es-politica/</description>
+      <link>https://rebelion.org/toda-deuda-es-politica/</link>
+      <guid isPermaLink="false">a8eac077df303718</guid>
+      <pubDate>Mon, 26 Oct 2026 18:06:02 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/a8eac077df303718.mp3" length="4366656" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Coyuntura y cruce de caminos (y II)</title>
       <description>Rebelión · Argentina — https://rebelion.org/coyuntura-y-cruce-de-caminos-y-ii/</description>
       <link>https://rebelion.org/coyuntura-y-cruce-de-caminos-y-ii/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">4da4fb58d3dd7b90</guid>
       <pubDate>Wed, 12 Aug 2026 12:55:51 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/4da4fb58d3dd7b90.mp3" length="4223664" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los datos matan el relato del Gobierno y Milei</title>
-      <description>Argentina – Rebelion — https://rebelion.org/los-datos-matan-el-relato-del-gobierno-y-milei/</description>
-      <link>https://rebelion.org/los-datos-matan-el-relato-del-gobierno-y-milei/</link>
-      <guid isPermaLink="false">887912f90ff74f24</guid>
-      <pubDate>Tue, 11 Aug 2026 12:56:11 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/887912f90ff74f24.mp3" length="24549408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
