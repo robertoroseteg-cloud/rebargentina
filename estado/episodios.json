@@ -1,5 +1,23 @@
 [
   {
+    "id": "e062b1d2aebe8924",
+    "titulo": "Declaración universal sobre el terrorismo de Estado en Argentina",
+    "fuente": "Rebelión · Argentina",
+    "enlace": "https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/",
+    "archivo": "e062b1d2aebe8924.mp3",
+    "bytes": 5623344,
+    "timestamp": 1793296631
+  },
+  {
+    "id": "0c3b1af0dc336c5f",
+    "titulo": "Docentes universitarios anunciaron un nuevo paro nacional y de maestros en la PBA",
+    "fuente": "Rebelión · Argentina",
+    "enlace": "https://rebelion.org/docentes-universitarios-anunciaron-un-nuevo-paro-nacional-y-de-maestros-en-la-pba/",
+    "archivo": "0c3b1af0dc336c5f.mp3",
+    "bytes": 2672496,
+    "timestamp": 1793296500
+  },
+  {
     "id": "a8eac077df303718",
     "titulo": "Toda deuda es política",
     "fuente": "Rebelión · Argentina",
@@ -340,23 +358,5 @@
     "archivo": "54c396a70821a0ad.mp3",
     "bytes": 26943696,
     "timestamp": 1786625987
-  },
-  {
-    "id": "e6f9a745f65645e2",
-    "titulo": "Los gremios docentes y no docentes universitarios convocan a un paro",
-    "fuente": "Argentina – Rebelion",
-    "enlace": "https://rebelion.org/los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/",
-    "archivo": "e6f9a745f65645e2.mp3",
-    "bytes": 9648000,
-    "timestamp": 1786539423
-  },
-  {
-    "id": "4da4fb58d3dd7b90",
-    "titulo": "¿Será que este pueblo argentino no comprende a Milei?",
-    "fuente": "Argentina – Rebelion",
-    "enlace": "https://rebelion.org/sera-que-este-pueblo-argentino-no-comprende-a-milei/",
-    "archivo": "4da4fb58d3dd7b90.mp3",
-    "bytes": 4223664,
-    "timestamp": 1786539351
   }
 ]

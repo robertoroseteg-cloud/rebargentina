@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Declaración universal sobre el terrorismo de Estado en Argentina</title>
+      <description>Rebelión · Argentina — https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/</description>
+      <link>https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/</link>
+      <guid isPermaLink="false">e062b1d2aebe8924</guid>
+      <pubDate>Thu, 29 Oct 2026 17:57:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e062b1d2aebe8924.mp3" length="5623344" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Docentes universitarios anunciaron un nuevo paro nacional y de maestros en la PBA</title>
+      <description>Rebelión · Argentina — https://rebelion.org/docentes-universitarios-anunciaron-un-nuevo-paro-nacional-y-de-maestros-en-la-pba/</description>
+      <link>https://rebelion.org/docentes-universitarios-anunciaron-un-nuevo-paro-nacional-y-de-maestros-en-la-pba/</link>
+      <guid isPermaLink="false">0c3b1af0dc336c5f</guid>
+      <pubDate>Thu, 29 Oct 2026 17:55:00 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/0c3b1af0dc336c5f.mp3" length="2672496" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Toda deuda es política</title>
       <description>Rebelión · Argentina — https://rebelion.org/toda-deuda-es-politica/</description>
       <link>https://rebelion.org/toda-deuda-es-politica/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">54c396a70821a0ad</guid>
       <pubDate>Thu, 13 Aug 2026 12:59:47 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/54c396a70821a0ad.mp3" length="26943696" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los gremios docentes y no docentes universitarios convocan a un paro</title>
-      <description>Argentina – Rebelion — https://rebelion.org/los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/</description>
-      <link>https://rebelion.org/los-gremios-docentes-y-no-docentes-universitarios-convocan-a-un-paro/</link>
-      <guid isPermaLink="false">e6f9a745f65645e2</guid>
-      <pubDate>Wed, 12 Aug 2026 12:57:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e6f9a745f65645e2.mp3" length="9648000" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Será que este pueblo argentino no comprende a Milei?</title>
-      <description>Argentina – Rebelion — https://rebelion.org/sera-que-este-pueblo-argentino-no-comprende-a-milei/</description>
-      <link>https://rebelion.org/sera-que-este-pueblo-argentino-no-comprende-a-milei/</link>
-      <guid isPermaLink="false">4da4fb58d3dd7b90</guid>
-      <pubDate>Wed, 12 Aug 2026 12:55:51 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/4da4fb58d3dd7b90.mp3" length="4223664" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
