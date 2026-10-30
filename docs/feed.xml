@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Los bosques en Argentina</title>
+      <description>Rebelión · Argentina — https://rebelion.org/los-bosques-en-argentina/</description>
+      <link>https://rebelion.org/los-bosques-en-argentina/</link>
+      <guid isPermaLink="false">534e67e5c69024b2</guid>
+      <pubDate>Fri, 30 Oct 2026 17:37:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/534e67e5c69024b2.mp3" length="1652976" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Declaración universal sobre el terrorismo de Estado en Argentina</title>
       <description>Rebelión · Argentina — https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/</description>
       <link>https://rebelion.org/declaracion-universal-sobre-el-terrorismo-de-estado-en-argentina/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">260029eec84b686d</guid>
       <pubDate>Thu, 13 Aug 2026 13:01:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/260029eec84b686d.mp3" length="12889152" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El pragmatismo económico sobre la ideología en la relación de Argentina con China</title>
-      <description>Argentina – Rebelion — https://rebelion.org/el-pragmatismo-economico-sobre-la-ideologia-en-la-relacion-de-argentina-con-china/</description>
-      <link>https://rebelion.org/el-pragmatismo-economico-sobre-la-ideologia-en-la-relacion-de-argentina-con-china/</link>
-      <guid isPermaLink="false">54c396a70821a0ad</guid>
-      <pubDate>Thu, 13 Aug 2026 12:59:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/54c396a70821a0ad.mp3" length="26943696" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
