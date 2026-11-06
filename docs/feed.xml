@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>CABA: La ciudad del odio</title>
+      <description>Rebelión · Argentina — https://rebelion.org/caba-la-ciudad-del-odio/</description>
+      <link>https://rebelion.org/caba-la-ciudad-del-odio/</link>
+      <guid isPermaLink="false">3db94a8aabc63cf9</guid>
+      <pubDate>Fri, 06 Nov 2026 18:49:11 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/3db94a8aabc63cf9.mp3" length="7661664" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Comandante Ortiz, el argentino al mando de una brigada</title>
       <description>Rebelión · Argentina — https://rebelion.org/comandante-ortiz-el-argentino-al-mando-de-una-brigada/</description>
       <link>https://rebelion.org/comandante-ortiz-el-argentino-al-mando-de-una-brigada/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">eac8e812f50c8ea3</guid>
       <pubDate>Thu, 20 Aug 2026 12:35:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/eac8e812f50c8ea3.mp3" length="2333520" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Milei, peronismo, elecciones ¿y después?</title>
-      <description>Argentina – Rebelion — https://rebelion.org/milei-peronismo-elecciones-y-despues/</description>
-      <link>https://rebelion.org/milei-peronismo-elecciones-y-despues/</link>
-      <guid isPermaLink="false">f9bd947ff7865be5</guid>
-      <pubDate>Wed, 19 Aug 2026 12:35:12 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f9bd947ff7865be5.mp3" length="5309568" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
