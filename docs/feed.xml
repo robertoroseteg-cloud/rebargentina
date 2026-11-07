@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Adiós a Patricia Walsh</title>
+      <description>Rebelión · Argentina — https://rebelion.org/adios-a-patricia-walsh-esa-companera-que-siempre-estuvo-en-el-lado-correcto-de-la-historia-de-nuestro-pueblo/</description>
+      <link>https://rebelion.org/adios-a-patricia-walsh-esa-companera-que-siempre-estuvo-en-el-lado-correcto-de-la-historia-de-nuestro-pueblo/</link>
+      <guid isPermaLink="false">8fb013cb5abde8dc</guid>
+      <pubDate>Sat, 07 Nov 2026 17:19:42 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/8fb013cb5abde8dc.mp3" length="1188720" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Nuevo paro en las universidades para que se cumpla la Ley de Financiamiento</title>
+      <description>Rebelión · Argentina — https://rebelion.org/nuevo-paro-en-las-universidades-para-que-se-cumpla-la-ley-de-financiamiento/</description>
+      <link>https://rebelion.org/nuevo-paro-en-las-universidades-para-que-se-cumpla-la-ley-de-financiamiento/</link>
+      <guid isPermaLink="false">cb094524d6b1db85</guid>
+      <pubDate>Sat, 07 Nov 2026 17:19:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/cb094524d6b1db85.mp3" length="6620688" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>CABA: La ciudad del odio</title>
       <description>Rebelión · Argentina — https://rebelion.org/caba-la-ciudad-del-odio/</description>
       <link>https://rebelion.org/caba-la-ciudad-del-odio/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">0eeeba36a55a3918</guid>
       <pubDate>Fri, 21 Aug 2026 12:35:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/0eeeba36a55a3918.mp3" length="1894608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Operativo de desalojo en las Lof Kinxikew y Melo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/operativo-de-desalojo-en-las-lof-kinxikew-y-melo/</description>
-      <link>https://rebelion.org/operativo-de-desalojo-en-las-lof-kinxikew-y-melo/</link>
-      <guid isPermaLink="false">e1af700cc417c3d3</guid>
-      <pubDate>Thu, 20 Aug 2026 12:37:45 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e1af700cc417c3d3.mp3" length="16305120" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Ley de tierras: «Pretenden despojar a las comunidades indígenas de sus territorios»</title>
-      <description>Argentina – Rebelion — https://rebelion.org/ley-de-tierras-pretenden-despojar-a-las-comunidades-indigenas-de-sus-territorios/</description>
-      <link>https://rebelion.org/ley-de-tierras-pretenden-despojar-a-las-comunidades-indigenas-de-sus-territorios/</link>
-      <guid isPermaLink="false">eac8e812f50c8ea3</guid>
-      <pubDate>Thu, 20 Aug 2026 12:35:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/eac8e812f50c8ea3.mp3" length="2333520" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
