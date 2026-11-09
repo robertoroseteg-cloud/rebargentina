@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>En Argentina se utilizan 167 agrotóxicos prohibidos en otros países</title>
+      <description>Rebelión · Argentina — https://rebelion.org/en-argentina-se-utilizan-167-agrotoxicos-prohibidos-en-otros-paises/</description>
+      <link>https://rebelion.org/en-argentina-se-utilizan-167-agrotoxicos-prohibidos-en-otros-paises/</link>
+      <guid isPermaLink="false">f674a8e9bd455837</guid>
+      <pubDate>Mon, 09 Nov 2026 21:57:45 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f674a8e9bd455837.mp3" length="7155072" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jorge Macri persigue a los trabajadores de la Ciudad</title>
+      <description>Rebelión · Argentina — https://rebelion.org/jorge-macri-persigue-a-los-trabajadores-de-la-ciudad/</description>
+      <link>https://rebelion.org/jorge-macri-persigue-a-los-trabajadores-de-la-ciudad/</link>
+      <guid isPermaLink="false">114edb14294344ca</guid>
+      <pubDate>Mon, 09 Nov 2026 21:55:28 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/114edb14294344ca.mp3" length="14737680" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Adiós a Patricia Walsh</title>
       <description>Rebelión · Argentina — https://rebelion.org/adios-a-patricia-walsh-esa-companera-que-siempre-estuvo-en-el-lado-correcto-de-la-historia-de-nuestro-pueblo/</description>
       <link>https://rebelion.org/adios-a-patricia-walsh-esa-companera-que-siempre-estuvo-en-el-lado-correcto-de-la-historia-de-nuestro-pueblo/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">95b33370c78e0a9e</guid>
       <pubDate>Sat, 22 Aug 2026 12:26:49 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/95b33370c78e0a9e.mp3" length="1533168" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Citan al embajador de EE.UU. por amenazas a una Cooperativa Nacional</title>
-      <description>Argentina – Rebelion — https://rebelion.org/citan-al-embajador-de-ee-uu-por-amenazas-a-una-cooperativa-nacional/</description>
-      <link>https://rebelion.org/citan-al-embajador-de-ee-uu-por-amenazas-a-una-cooperativa-nacional/</link>
-      <guid isPermaLink="false">1a5eb768f9998d62</guid>
-      <pubDate>Fri, 21 Aug 2026 12:37:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/1a5eb768f9998d62.mp3" length="11200608" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Poder mirar a la cara a los escuchas</title>
-      <description>Argentina – Rebelion — https://rebelion.org/poder-mirar-a-la-cara-a-los-escuchas/</description>
-      <link>https://rebelion.org/poder-mirar-a-la-cara-a-los-escuchas/</link>
-      <guid isPermaLink="false">0eeeba36a55a3918</guid>
-      <pubDate>Fri, 21 Aug 2026 12:35:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/0eeeba36a55a3918.mp3" length="1894608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
