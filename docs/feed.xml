@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Un mundo conmovido, un país sin rumbo claro</title>
+      <description>Rebelión · Argentina — https://rebelion.org/un-mundo-conmovido-un-pais-sin-rumbo-claro/</description>
+      <link>https://rebelion.org/un-mundo-conmovido-un-pais-sin-rumbo-claro/</link>
+      <guid isPermaLink="false">50c2458af3dff127</guid>
+      <pubDate>Wed, 11 Nov 2026 19:09:08 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/50c2458af3dff127.mp3" length="3724128" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Trabajadores argentinos afectados por el cierre del Banco paraguayo Ueno se suman a los despidos y suspensiones de la última quincena</title>
       <description>Rebelión · Argentina — https://rebelion.org/trabajadores-argentinos-afectados-por-el-cierre-del-banco-paraguayo-ueno-se-suman-a-los-despidos-y-suspensiones-de-la-ultima-quincena/</description>
       <link>https://rebelion.org/trabajadores-argentinos-afectados-por-el-cierre-del-banco-paraguayo-ueno-se-suman-a-los-despidos-y-suspensiones-de-la-ultima-quincena/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">438cce9d975f910c</guid>
       <pubDate>Mon, 24 Aug 2026 12:37:35 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/438cce9d975f910c.mp3" length="1818576" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Por qué la unidad federal es la única salida nacional</title>
-      <description>Argentina – Rebelion — https://rebelion.org/por-que-la-unidad-federal-es-la-unica-salida-nacional/</description>
-      <link>https://rebelion.org/por-que-la-unidad-federal-es-la-unica-salida-nacional/</link>
-      <guid isPermaLink="false">aa31bd1d04491990</guid>
-      <pubDate>Sat, 22 Aug 2026 12:27:22 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/aa31bd1d04491990.mp3" length="1221984" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
