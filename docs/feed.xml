@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«La ley argentina establece que todo pedido de extradición de un refugiado debe ser rechazado»</title>
+      <description>Rebelión · Argentina — https://rebelion.org/la-ley-argentina-establece-que-todo-pedido-de-extradicion-de-un-refugiado-debe-ser-rechazado/</description>
+      <link>https://rebelion.org/la-ley-argentina-establece-que-todo-pedido-de-extradicion-de-un-refugiado-debe-ser-rechazado/</link>
+      <guid isPermaLink="false">6f43c442843052f7</guid>
+      <pubDate>Sat, 14 Nov 2026 17:34:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/6f43c442843052f7.mp3" length="2544192" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Un mundo conmovido, un país sin rumbo claro</title>
       <description>Rebelión · Argentina — https://rebelion.org/un-mundo-conmovido-un-pais-sin-rumbo-claro/</description>
       <link>https://rebelion.org/un-mundo-conmovido-un-pais-sin-rumbo-claro/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">d197312e9b1e8b55</guid>
       <pubDate>Mon, 24 Aug 2026 12:41:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/d197312e9b1e8b55.mp3" length="21627216" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Las lluvias y el cambio climático</title>
-      <description>Argentina – Rebelion — https://rebelion.org/las-lluvias-y-el-cambio-climatico/</description>
-      <link>https://rebelion.org/las-lluvias-y-el-cambio-climatico/</link>
-      <guid isPermaLink="false">438cce9d975f910c</guid>
-      <pubDate>Mon, 24 Aug 2026 12:37:35 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/438cce9d975f910c.mp3" length="1818576" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
