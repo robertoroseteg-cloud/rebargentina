@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Saquear y fugar: el mito del desarrollo a partir de las exportaciones</title>
+      <description>Rebelión · Argentina — https://rebelion.org/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/</description>
+      <link>https://rebelion.org/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/</link>
+      <guid isPermaLink="false">ccd594dcc1108d3d</guid>
+      <pubDate>Tue, 17 Nov 2026 20:25:23 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ccd594dcc1108d3d.mp3" length="5174064" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El problema a superar es el capitalismo</title>
+      <description>Rebelión · Argentina — https://rebelion.org/el-problema-a-superar-es-el-capitalismo/</description>
+      <link>https://rebelion.org/el-problema-a-superar-es-el-capitalismo/</link>
+      <guid isPermaLink="false">2e183cb859f25d47</guid>
+      <pubDate>Tue, 17 Nov 2026 20:22:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/2e183cb859f25d47.mp3" length="2430144" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El genocidio indígena de la «Campaña del Desierto» llegó a los tribunales argentinos</title>
       <description>Rebelión · Argentina — https://rebelion.org/el-genocidio-indigena-de-la-campana-del-desierto-llego-a-los-tribunales-argentinos-2/</description>
       <link>https://rebelion.org/el-genocidio-indigena-de-la-campana-del-desierto-llego-a-los-tribunales-argentinos-2/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">9a42c24e6ce26d1b</guid>
       <pubDate>Thu, 27 Aug 2026 21:36:57 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/9a42c24e6ce26d1b.mp3" length="1392624" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>No hay un loco en la casa rosada</title>
-      <description>Argentina – Rebelion — https://rebelion.org/no-hay-un-loco-en-la-casa-rosada/</description>
-      <link>https://rebelion.org/no-hay-un-loco-en-la-casa-rosada/</link>
-      <guid isPermaLink="false">ef07120d6f4783b0</guid>
-      <pubDate>Thu, 27 Aug 2026 21:36:41 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ef07120d6f4783b0.mp3" length="3573936" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sigue la amenaza de desalojo contra la Lof Melo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/sigue-la-amenaza-de-desalojo-contra-la-lof-melo/</description>
-      <link>https://rebelion.org/sigue-la-amenaza-de-desalojo-contra-la-lof-melo/</link>
-      <guid isPermaLink="false">338d05200afab1c3</guid>
-      <pubDate>Wed, 26 Aug 2026 12:45:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/338d05200afab1c3.mp3" length="26885088" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
