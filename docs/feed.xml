@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Argentina y los días con el Papa</title>
+      <description>Rebelión · Argentina — https://rebelion.org/argentina-y-los-dias-con-el-papa/</description>
+      <link>https://rebelion.org/argentina-y-los-dias-con-el-papa/</link>
+      <guid isPermaLink="false">522e4cfe944de4f3</guid>
+      <pubDate>Wed, 18 Nov 2026 19:56:06 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/522e4cfe944de4f3.mp3" length="4031568" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Para quién gritan Trump y Milei?</title>
+      <description>Rebelión · Argentina — https://rebelion.org/para-quien-gritan-trump-y-milei/</description>
+      <link>https://rebelion.org/para-quien-gritan-trump-y-milei/</link>
+      <guid isPermaLink="false">f375554faf4dce3e</guid>
+      <pubDate>Wed, 18 Nov 2026 19:54:33 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f375554faf4dce3e.mp3" length="7262352" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Saquear y fugar: el mito del desarrollo a partir de las exportaciones</title>
       <description>Rebelión · Argentina — https://rebelion.org/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/</description>
       <link>https://rebelion.org/saquear-y-fugar-el-mito-del-desarrollo-a-partir-de-las-exportaciones/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">f40454a8ff21730a</guid>
       <pubDate>Fri, 28 Aug 2026 21:40:14 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f40454a8ff21730a.mp3" length="2325312" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La mudez de la radio</title>
-      <description>Argentina – Rebelion — https://rebelion.org/la-mudez-de-la-radio/</description>
-      <link>https://rebelion.org/la-mudez-de-la-radio/</link>
-      <guid isPermaLink="false">3a4fbf46e8e51b2b</guid>
-      <pubDate>Fri, 28 Aug 2026 21:39:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/3a4fbf46e8e51b2b.mp3" length="1476864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿Por qué baja la tasa de natalidad?</title>
-      <description>Argentina – Rebelion — https://rebelion.org/por-que-baja-la-tasa-de-natalidad/</description>
-      <link>https://rebelion.org/por-que-baja-la-tasa-de-natalidad/</link>
-      <guid isPermaLink="false">9a42c24e6ce26d1b</guid>
-      <pubDate>Thu, 27 Aug 2026 21:36:57 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/9a42c24e6ce26d1b.mp3" length="1392624" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
