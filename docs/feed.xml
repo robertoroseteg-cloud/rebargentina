@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La Izquierda Nacional vuelve al debate político</title>
+      <description>Rebelión · Argentina — https://rebelion.org/la-izquierda-nacional-vuelve-al-debate-politico/</description>
+      <link>https://rebelion.org/la-izquierda-nacional-vuelve-al-debate-politico/</link>
+      <guid isPermaLink="false">4add5b3feb88a6dc</guid>
+      <pubDate>Thu, 19 Nov 2026 19:53:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/4add5b3feb88a6dc.mp3" length="2306592" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Jugar con fuego</title>
+      <description>Rebelión · Argentina — https://rebelion.org/jugar-con-fuego-4/</description>
+      <link>https://rebelion.org/jugar-con-fuego-4/</link>
+      <guid isPermaLink="false">6c3ccbec8faccfe8</guid>
+      <pubDate>Thu, 19 Nov 2026 19:52:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/6c3ccbec8faccfe8.mp3" length="4512096" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Argentina y los días con el Papa</title>
       <description>Rebelión · Argentina — https://rebelion.org/argentina-y-los-dias-con-el-papa/</description>
       <link>https://rebelion.org/argentina-y-los-dias-con-el-papa/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">69ef5a4999eb0ce9</guid>
       <pubDate>Sat, 29 Aug 2026 16:06:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/69ef5a4999eb0ce9.mp3" length="15974352" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>El plan sistemático para borrar el futuro de la Argentina</title>
-      <description>Argentina – Rebelion — https://rebelion.org/el-plan-sistematico-para-borrar-el-futuro-de-la-argentina/</description>
-      <link>https://rebelion.org/el-plan-sistematico-para-borrar-el-futuro-de-la-argentina/</link>
-      <guid isPermaLink="false">f9c12bd006efeb7f</guid>
-      <pubDate>Sat, 29 Aug 2026 16:04:19 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f9c12bd006efeb7f.mp3" length="2461104" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Milei ante el abismo: entre el relato y la crisis económica</title>
-      <description>Argentina – Rebelion — https://rebelion.org/milei-ante-el-abismo-entre-el-relato-y-la-crisis-economica/</description>
-      <link>https://rebelion.org/milei-ante-el-abismo-entre-el-relato-y-la-crisis-economica/</link>
-      <guid isPermaLink="false">f40454a8ff21730a</guid>
-      <pubDate>Fri, 28 Aug 2026 21:40:14 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f40454a8ff21730a.mp3" length="2325312" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
