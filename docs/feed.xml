@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Urgencia por un reemplazo en Argentina</title>
+      <description>Rebelión · Argentina — https://rebelion.org/urgencia-por-un-reemplazo-en-argentina/</description>
+      <link>https://rebelion.org/urgencia-por-un-reemplazo-en-argentina/</link>
+      <guid isPermaLink="false">5f7db271dc83f182</guid>
+      <pubDate>Fri, 20 Nov 2026 19:32:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/5f7db271dc83f182.mp3" length="4383792" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La realidad vuelve a mostrar su rostro más atroz</title>
+      <description>Rebelión · Argentina — https://rebelion.org/la-realidad-vuelve-a-mostrar-su-rostro-mas-atroz/</description>
+      <link>https://rebelion.org/la-realidad-vuelve-a-mostrar-su-rostro-mas-atroz/</link>
+      <guid isPermaLink="false">f03fb9b82ebfa766</guid>
+      <pubDate>Fri, 20 Nov 2026 19:31:41 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/f03fb9b82ebfa766.mp3" length="4483872" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La Izquierda Nacional vuelve al debate político</title>
       <description>Rebelión · Argentina — https://rebelion.org/la-izquierda-nacional-vuelve-al-debate-politico/</description>
       <link>https://rebelion.org/la-izquierda-nacional-vuelve-al-debate-politico/</link>
@@ -310,22 +326,6 @@
       <guid isPermaLink="false">e1462d1124fe3745</guid>
       <pubDate>Mon, 31 Aug 2026 18:38:26 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/e1462d1124fe3745.mp3" length="1916928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Recrudecen los conflictos por territorios indígenas en Salta</title>
-      <description>Argentina – Rebelion — https://rebelion.org/recrudecen-los-conflictos-por-territorios-indigenas-en-salta/</description>
-      <link>https://rebelion.org/recrudecen-los-conflictos-por-territorios-indigenas-en-salta/</link>
-      <guid isPermaLink="false">b988868ed1fee734</guid>
-      <pubDate>Mon, 31 Aug 2026 18:38:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/b988868ed1fee734.mp3" length="4117824" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Lamelas ataca de nuevo</title>
-      <description>Argentina – Rebelion — https://rebelion.org/lamelas-ataca-de-nuevo/</description>
-      <link>https://rebelion.org/lamelas-ataca-de-nuevo/</link>
-      <guid isPermaLink="false">69ef5a4999eb0ce9</guid>
-      <pubDate>Sat, 29 Aug 2026 16:06:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/69ef5a4999eb0ce9.mp3" length="15974352" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
