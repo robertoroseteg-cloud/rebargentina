@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>«Los números siguen siendo horribles, pero la película es la mejor película de la historia»</title>
+      <description>Rebelión · Argentina — https://rebelion.org/los-numeros-siguen-siendo-horribles-pero-la-pelicula-es-la-mejor-pelicula-de-la-historia/</description>
+      <link>https://rebelion.org/los-numeros-siguen-siendo-horribles-pero-la-pelicula-es-la-mejor-pelicula-de-la-historia/</link>
+      <guid isPermaLink="false">2ca52e302ede2e62</guid>
+      <pubDate>Mon, 23 Nov 2026 23:19:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/2ca52e302ede2e62.mp3" length="24410592" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Kicillof en el acto por el Día de la Soberanía Nacional: «Argentina no va a ser el patio trasero de nadie»</title>
       <description>Rebelión · Argentina — https://rebelion.org/kicillof-en-el-acto-por-el-dia-de-la-soberania-nacional-argentina-no-va-a-ser-el-patio-trasero-de-nadie/</description>
       <link>https://rebelion.org/kicillof-en-el-acto-por-el-dia-de-la-soberania-nacional-argentina-no-va-a-ser-el-patio-trasero-de-nadie/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">474a918d0388370e</guid>
       <pubDate>Sat, 24 Oct 2026 15:16:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/474a918d0388370e.mp3" length="3834864" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Docentes bonaerenses rechazan el 6% de aumento de Kicillof y convocan a paros, ollas populares y movilizaciones</title>
-      <description>Rebelión · Argentina — https://rebelion.org/docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizaciones/</description>
-      <link>https://rebelion.org/docentes-bonaerenses-rechazan-el-6-de-aumento-de-kicillof-y-convocan-a-paros-ollas-populares-y-movilizaciones/</link>
-      <guid isPermaLink="false">4bca5d11e237e4b5</guid>
-      <pubDate>Sat, 24 Oct 2026 15:15:25 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/4bca5d11e237e4b5.mp3" length="5285088" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
