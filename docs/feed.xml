@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Nuevo paro de las universidades nacionales</title>
+      <description>Rebelión · Argentina — https://rebelion.org/nuevo-paro-de-las-universidades-nacionales/</description>
+      <link>https://rebelion.org/nuevo-paro-de-las-universidades-nacionales/</link>
+      <guid isPermaLink="false">ffd5f3e05e523986</guid>
+      <pubDate>Wed, 25 Nov 2026 21:00:25 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/ffd5f3e05e523986.mp3" length="14733072" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>El Gobierno exigió formalmente a la UBA que impida el homenaje a Mario Santucho y sancione a sus impulsores</title>
       <description>Rebelión · Argentina — https://rebelion.org/el-gobierno-le-exigio-formalmente-a-la-uba-que-impida-el-homenaje-a-mario-santucho-y-que-sancione-a-sus-impulsores/</description>
       <link>https://rebelion.org/el-gobierno-le-exigio-formalmente-a-la-uba-que-impida-el-homenaje-a-mario-santucho-y-que-sancione-a-sus-impulsores/</link>
@@ -318,14 +326,6 @@
       <guid isPermaLink="false">6ae24bd3f13f7f61</guid>
       <pubDate>Sat, 24 Oct 2026 15:17:41 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/6ae24bd3f13f7f61.mp3" length="5246928" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Coloquio de IDEA: ¿educación o management educativo?</title>
-      <description>Rebelión · Argentina — https://rebelion.org/coloquio-de-idea-educacion-o-management-educativo/</description>
-      <link>https://rebelion.org/coloquio-de-idea-educacion-o-management-educativo/</link>
-      <guid isPermaLink="false">a43734a020e2f300</guid>
-      <pubDate>Sat, 24 Oct 2026 15:16:59 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebargentina/episodios/a43734a020e2f300.mp3" length="4900896" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
